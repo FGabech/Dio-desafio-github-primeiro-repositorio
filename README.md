@@ -31,3 +31,4 @@ This Repository was created for a project challange, using Git and Github. This 
 ## Links úteis / Useful Websites
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+[MDN Web Docs](https://developer.mozilla.org/pt-BR/) para perquisar sintaxes e entender maissobre linguagens
