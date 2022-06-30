@@ -60,3 +60,4 @@ Esse modulo é o estudo de JavaScript.
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 [MDN Web Docs](https://developer.mozilla.org/pt-BR/) para perquisar sintaxes e entender mais sobre linguagens
+https://cdnjs.com/libraries/semantic-ui
